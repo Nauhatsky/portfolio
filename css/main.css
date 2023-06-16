@@ -373,6 +373,10 @@ a:hover {
     gap: 30px;
   }
 
+  .im-frontender__info {
+    margin: 0px 0px 0px 0px;
+  }
+
   .im-frontender__img {
     margin: 0px 0px 0px 0px;
   }
@@ -454,6 +458,7 @@ a:hover {
 
   .im-frontender__text {
     font-size: 20px;
+    width: 350px;
   }
   .my-projects__cappadociatext,
   .my-projects__flextext,
@@ -545,6 +550,7 @@ a:hover {
 
   .im-frontender__text {
     font-size: 15px;
+    width: 263px;
   }
 
   .my-projects__cappadociacontent,
