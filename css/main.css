@@ -535,6 +535,7 @@ a:hover {
   .header__nick,
   .footer__nick {
     font-size: 35px;
+    width: 273px;
   }
 
   .i-can,
@@ -575,6 +576,7 @@ a:hover {
   .footer__link-list {
     gap: 25px;
     font-size: 25px;
+    width: 171px;
   }
 
   .header__section,
