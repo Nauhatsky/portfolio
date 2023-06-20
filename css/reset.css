@@ -1,4 +1,3 @@
-/* reset */
 * {
   padding: 0px;
   margin: 0px;
@@ -11,6 +10,10 @@
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
 }
 
 aside,
@@ -79,4 +82,3 @@ h6 {
   font-weight: inherit;
   font-size: inherit;
 }
-/* reset */
